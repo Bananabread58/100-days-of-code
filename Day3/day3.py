@@ -1,11 +1,3 @@
-left = "left"
-right = "right"
-gameover = "gameover"
-
-
-
-
-
 print("Of mice and men game practice")
 print("It was a warm evening with a little wind that moves amongst the leaves, there a river for you an your friend George to take a drink")
 choice1 = input(("The water looked scummy and was painted a muddy grey, would you like to take a sip ? y/n "))
@@ -137,17 +129,7 @@ elif choice1 == "y":
                                                                                     print("You lose")
                                                                                    elif choice30 == "n":
                                                                                       print("You win")
-else:
-   ("You died. Game Over!")
 
 
-
-
-
-
-
-
-
-
-
-
+     
+   
